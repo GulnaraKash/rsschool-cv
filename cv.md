@@ -1,8 +1,8 @@
-# Гульнара Кашапова.
+# Gulnara Kashapova.
 *******
-## Телефон, WhatsApp, Telegram - +7(962)5375474.
+## Telephone, WhatsApp, Telegram - +7(962)5375474.
 *****
-### В далеком 2010ом сама заинтересовалась созданием сайтов, сделала 2 сайта, один из них даже немного поработал... Работала ассистентом аудитора, в каждой новой организации - новая система учета, 1С, Гарант, SAP и др. В общем, нужно было за день понять как работает система. Потом был большой перерыв от этой темы, я сейчас тату мастер, мастер-бровист (продвижение в сети, реклама, таргет, ведение соц.страниц - все сама). Недавно прошла бесплатное обучение через ЦЗН в ТГУ (web-разработчик), теперь пришла сюда. Нашла онлайн-подработку, заполнение магазина товарами через Битрикс. Короче, хочу работать онлайн. Я честна и справедлива в своей работе, быстро учусь.
-### На данном этапе считаю себя чайником... немного html, css, php, mySQL, CMS.
-## Высшее - экономист. Курсы - бухгалтерские. Повышение - веб-разработчик.
-## Базовое знание английского языка. 
+#### Back in 2010, I myself became interested in creating websites, made 2 websites, one of them even worked a little... I worked as an auditor's assistant, in each new organization - a new accounting system, 1C, Garant, SAP, etc. In general, it was necessary to understand how the system works in a day. Then there was a big break from this topic, now I am a tattoo artist, a master eyebrow artist (online promotion, advertising, targeting, maintaining social pages - all by myself). I recently completed free training through TSN at TSU (web developer), now I have come here. I found an online part-time job, filling the store with goods through Bitrix. In short, I want to work online. I am honest and fair in my work, I am learning fast.
+#### At this stage, I consider myself a kettle... a little html, css, php, mySQL, CMS.
+### Higher education - economist. Courses - accounting. Promotion - web developer.
+### Basic knowledge of English.
